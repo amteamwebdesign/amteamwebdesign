@@ -24,7 +24,5 @@
 ## Стек
 
 <div align="center">
-  <img src="./stack-carousel.svg" alt="Tech Stack" width="700"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,prisma,docker&theme=dark" height="65" alt="Tech Stack"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
