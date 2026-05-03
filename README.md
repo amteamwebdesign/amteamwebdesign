@@ -26,7 +26,13 @@
 ## Стек
 
 <div align="center">
-  <img src="./stack-carousel.svg" alt="Tech Stack" width="700"/>
+  <img src="https://skillicons.dev/icons?i=react" height="55" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="55" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="55" title="Prisma"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="55" title="Docker"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
