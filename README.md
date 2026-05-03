@@ -1,13 +1,11 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=180&section=header&text=A.M.%20Team&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Development&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=180&section=header&text=amteamwebdesign&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Development&descAlignY=58&descSize=22" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=We+build+products+from+idea+to+deploy;React+%2B+Next.js+%2B+Node.js;Frontend+%2B+Backend%2C+no+middlemen)](https://git.io/typing-svg)
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.m.teamwebdesign@gmail.com)
-
 </div>
 
 ---
@@ -26,13 +24,7 @@
 ## Стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="55" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="55" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=prisma" height="55" title="Prisma"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="55" title="Docker"/>
+  <img src="./stack-carousel.svg" alt="Tech Stack" width="700"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
