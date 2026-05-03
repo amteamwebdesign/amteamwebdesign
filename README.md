@@ -12,52 +12,23 @@
 
 ---
 
-## What We Build
+## Что делаем
 
-- **Landing Pages** — responsive, conversion-focused, with animations
-- **Business Websites** — multi-page, CMS-ready, SEO-optimized
-- **E-commerce** — catalog, cart, payments, user accounts
-- **Web Apps & MVPs** — auth, database design, business logic, REST API
-- **Refactoring & Redesign** — we fix, speed up and modernize legacy projects
-- **Full-Stack, End-to-End** — from architecture decisions to production deploy
+- **Landing pages** — быстрые, адаптивные, с анимациями и интеграцией форм
+- **Корпоративные сайты** — многостраничные, SSR/SSG, SEO-ready
+- **Интернет-магазины** — каталог, корзина, платёжные интеграции, личный кабинет
+- **Веб-приложения и MVP** — авторизация, REST API, работа с БД, бизнес-логика
+- **Рефакторинг и редизайн** — оптимизация производительности, переход на современный стек
+- **Full-stack под ключ** — от выбора архитектуры до деплоя в продакшн
 
 ---
 
-## Tech Stack
+## Стек
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="16">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/><br/>
-        <b>React</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js"/><br/>
-        <b>Next.js</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript"/><br/>
-        <b>TypeScript</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/><br/>
-        <b>Node.js</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL"/><br/>
-        <b>PostgreSQL</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma"/><br/>
-        <b>Prisma</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br/>
-        <b>Docker</b>
-      </td>
-    </tr>
-  </table>
+
+[![React](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,postgres,prisma,docker,git,vercel,tailwind&perline=5)](https://skillicons.dev)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
