@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.m.teamwebdesign@gmail.com)
+[![Gmail](https://img.shields.io/badge/Contact_Us-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.m.teamwebdesign@gmail.com)
 </div>
 
 ---
@@ -24,5 +24,7 @@
 ## Стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,prisma,docker&theme=dark" height="65" alt="Tech Stack"/>
+  <img src="./stack-carousel.svg" alt="Tech Stack" width="700"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
